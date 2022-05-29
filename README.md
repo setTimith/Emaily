@@ -1,1 +1,1 @@
-﻿# MERN stack Project
+﻿# MERN Stack Project
